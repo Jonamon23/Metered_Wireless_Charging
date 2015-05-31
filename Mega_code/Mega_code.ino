@@ -1,3 +1,4 @@
+//Simple code that reads a pin and mirrors its status to another pin
 void setup() {
   pinMode(2, INPUT);
   pinMode(13, OUTPUT);
